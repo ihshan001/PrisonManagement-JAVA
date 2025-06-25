@@ -51,6 +51,27 @@ A comprehensive Java-based Prison Management System built with Swing GUI and MyS
 - **Report Generation**: PDF export functionality
 - **Database Connectivity**: JDBC
 
+## 🎯 Key Functionalities
+
+### For Administrators:
+- ✅ **Complete system oversight** and management
+- ✅ **User account creation** and management
+- ✅ **Comprehensive reporting** and analytics
+- ✅ **System configuration** and settings
+- ✅ **Data backup** and maintenance
+- ✅ **Inmate release countdown tracking**
+- ✅ **Facility capacity management**
+- ✅ **Crime database management**
+
+### For Staff:
+- ✅ **Daily inmate operations** management
+- ✅ **Visitor registration** and tracking
+- ✅ **Activity logging** and updates
+- ✅ **Basic reporting** capabilities
+- ✅ **Cell assignment** operations
+- ✅ **Inmate search** and filtering
+- ✅ **Release date monitoring**
+
 ## 📋 Prerequisites
 
 - **Java Development Kit (JDK) 8 or higher**
@@ -58,9 +79,24 @@ A comprehensive Java-based Prison Management System built with Swing GUI and MyS
 - **NetBeans IDE** (recommended) or any Java IDE
 - **MySQL Connector/J** (JDBC driver)
 
-## ⚙️ Installation & Setup
+## 📦 Dependencies
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/ihshan001/PrisonManagementSystem.git
-cd PrisonManagementSystem
+### Core Dependencies:
+- **MySQL Connector/J**: Database connectivity
+  ```xml
+  mysql:mysql-connector-java:8.0.33
+  UI Libraries:
+FlatLaf Core: Modern look and feel
+FlatLaf IntelliJ Themes: Additional theme support
+Build Dependencies:
+Apache Ant: Build automation (included with NetBeans)
+JDK 8+: Java Development Kit
+Runtime Requirements:
+MySQL Server: Database server
+Java Runtime Environment: JRE 8 or higher
+📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+##👨‍💻 Author
+###Ihshan Ahamed - ihshan001
+
