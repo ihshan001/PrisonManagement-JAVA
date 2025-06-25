@@ -85,17 +85,25 @@ A comprehensive Java-based Prison Management System built with Swing GUI and MyS
 - **MySQL Connector/J**: Database connectivity
   ```xml
   mysql:mysql-connector-java:8.0.33
-  UI Libraries:
-FlatLaf Core: Modern look and feel
-FlatLaf IntelliJ Themes: Additional theme support
-Build Dependencies:
-Apache Ant: Build automation (included with NetBeans)
-JDK 8+: Java Development Kit
-Runtime Requirements:
-MySQL Server: Database server
-Java Runtime Environment: JRE 8 or higher
-📝 License
+ ### UI/Theme Dependencies:
+- **FlatLaf Core**: Modern look and feel
+- **FlatLaf IntelliJ Themes**: Additional theme support
+
+### Build Dependencies:
+- **Apache Ant**: Build automation (included with NetBeans)
+- **JDK 8+**: Java Development Kit
+
+### Runtime Requirements:
+- **MySQL Server**: Database server
+- **Java Runtime Environment**: JRE 8 or higher
+
+## 📝 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 👨‍💻 Author
+
+### Ihshan Ahamed - ihshan001
 
 ##👨‍💻 Author
 ###Ihshan Ahamed - ihshan001
